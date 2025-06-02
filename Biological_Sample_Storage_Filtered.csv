@@ -1,0 +1,17 @@
+Biological Sample,Storage Temperature,Humidity (%),Other Storage Conditions,Max Preservation Time (Years),k (year^-1)
+DNA,-50,30,TE buffer (pH 8.0),50,0.00014
+Genomic DNA,-80,30,TE buffer,50,0.00014
+Plasmid DNA,-20,30,TE buffer with glycerol,20,0.035
+RNA,-80,30,RNase-free environment,5,0.14
+RNA (stabilized),24,55,"Stabilization matrix (e.g., RNA Preserve)",3,0.23
+Whole Blood (unprocessed),4,55,"Anticoagulants (e.g., EDTA)",0.01,138.6
+Red Blood Cells (frozen),-65,30,40% glycerol,10,0.07
+Plasma (Fresh Frozen),-25,30,Frozen within 8 hours,3,0.23
+Snap-Frozen Tissue,-80,30,Rapid freezing in liquid nitrogen vapor,50,0.014
+FFPE Tissue Blocks,27,40,Pest and humidity control,50,0.001
+Antibodies,-80,30,Avoid freeze-thaw cycles,50,0.001
+Enzymes,-80,30,Glycerol (20-50%),50,0.002
+Lymphocytes,-196,30,Liquid nitrogen with DMSO,50,0.005
+Stem Cells,-196,30,Liquid nitrogen,50,0.003
+Ancient DNA,-80,30,Contamination-free environment,1000,0.0000069
+DNA Extracts,-80,30,TE buffer,50,0.00014
